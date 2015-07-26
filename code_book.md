@@ -54,8 +54,8 @@ data from the participants in the study.  Means and standard deviations are
 each noted appropriately in the variable names.  These data show averages across
 activity and subject.
 
-4	tBodyAcc-Mean-X
-5	tBodyAcc-Mean-Y
+4	tBodyAcc-Mean-X \n
+5	tBodyAcc-Mean-Y \n
 6	tBodyAcc-Mean-Z
 7	tBodyAcc-StdDev-X
 8	tBodyAcc-StdDev-Y
